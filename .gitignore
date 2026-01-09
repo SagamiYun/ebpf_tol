@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# C/C++ Build Artifacts
+*.o
+*.skel.h
+vmlinux.h
+monitor
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
